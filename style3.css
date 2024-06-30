@@ -1,0 +1,11 @@
+body{
+background-color: antiquewhite;
+}    
+.card-body:hover{
+    transform:scale(1.04);
+    box-shadow: 0px 10px 20px 0px rgba(226, 6, 109, 0.2);
+}
+.card-img-top:hover{
+    transform:scale(1.04);
+    box-shadow: 0px 10px 20px 0px rgba(224, 6, 108, 0.2);
+}

@@ -1,0 +1,27 @@
+body {
+    background-image:url("mickey.jpg") ;
+}
+.title{
+    color: aqua;
+}
+.skills-content {
+    color:aqua;
+    font-size: medium;
+    font-size:20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.info{
+    color:white;
+    font-size:20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.row{
+    color:aqua;
+    font-size:20px ;
+}
+.text{
+    color:white;
+}
+.head{
+    color: rgb(238, 24, 209);
+}
